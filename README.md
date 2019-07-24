@@ -1,2 +1,1 @@
-# yixuan
-learning
+github first start
